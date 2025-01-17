@@ -37,11 +37,19 @@ We used the R packages glmnet ver. 4.1-8 (Friedman et al., 2023) for RIDGE, LASS
 
 **References**:  
 Furukawa, T. A., Noma, H., Tajika, A., et al. (2025+). Personalised & Optimised Therapy (POT) algorithm using five cognitive and behavioural skills for subthreshold depression: Precision medicine based on the largest randomised controlled trial of smartphone CBT for depression (n=4469) in the general population (RESiLIENT trial). Forthcoming.  
+
 Furukawa, T. A., Tajika, A., Sakata, M., et al. (2023). Four 2x2 factorial trials of smartphone CBT to reduce subthreshold depression and to prevent new depressive episodes among adults in the community-RESiLIENT trial (Resilience Enhancement with Smartphone in LIving ENvironmenTs): a master protocol. *BMJ Open* **13**, e067850. (https://doi.org/10.1136/bmjopen-2022-067850)  
+
 Friedman, J., Hastie, T., Tibshirani, R., et al. (2023). glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models. R package version 4.1-8. (https://doi.org/10.32614/CRAN.package.glmnet)
+
 Lenth, R. V., Banfai, B., Bolker, B., et al. (2023). emmeans: Estimated Marginal Means, aka Least-Squares Means. R package version 1.9.0. (https://doi.org/10.32614/CRAN.package.emmeans) 
+
 Meyer, D., Dimitriadou, E., Hornik, K., et al. (2024). e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien. R package version 1.7-16. (https://doi.org/10.32614/CRAN.package.e1071)
+
 Noma, H., Furukawa, T. A., Tajika, A., et al. (2024). RESiLIENT (Resilience Enhancement with Smartphone in LIving ENvironmenTs) Trial: The Statistical Analysis Plan. medRxiv 2024.2003.2016.24304261. (https://doi.org/10.1101/2024.03.16.24304261)  
+
 Sabanes Bove, D., Li, L., Dedic, J., et al. (2024). mmrm: Mixed Models for Repeated Measures. R package version 0.3.11. (https://doi.org/10.32614/CRAN.package.mmrm)  
+
 Tibshirani, J., Athey, S., Friedberg, R., et al. (2024). grf: Generalized Random Forests. R package version 2.4.0. (https://doi.org/10.32614/CRAN.package.grf)
+
 van Buuren, S., Groothuis-Oudshoorn, K., Vink, G., et al. (2024). mice: Multivariate Imputation by Chained Equations. R package version 3.17.0. (https://doi.org/10.32614/CRAN.package.mice)
