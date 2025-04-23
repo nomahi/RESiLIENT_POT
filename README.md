@@ -36,7 +36,7 @@ We used the R packages glmnet ver. 4.1-8 (Friedman et al., 2023) for RIDGE, LASS
 ---
 
 **References**:  
-Furukawa, T. A., Noma, H., Tajika, A., et al. (2025+). Personalised & Optimised Therapy (POT) algorithm using five cognitive and behavioural skills for subthreshold depression: Precision medicine based on the largest randomised controlled trial of smartphone CBT for depression (n=4469) in the general population (RESiLIENT trial). Forthcoming.  
+Furukawa, T. A., Tajika, A., Toyomoto, R., et al. (2025). Cognitive behavioral therapy skills via a smartphone app for subthreshold depression among adults in the community: the RESiLIENT randomized controlled trial. *Nature Medicine*, DOI: 10.1038/s41591-025-03639-1. (https://doi.org/10.1038/s41591-025-03639-1)   
 Furukawa, T. A., Tajika, A., Sakata, M., et al. (2023). Four 2x2 factorial trials of smartphone CBT to reduce subthreshold depression and to prevent new depressive episodes among adults in the community-RESiLIENT trial (Resilience Enhancement with Smartphone in LIving ENvironmenTs): a master protocol. *BMJ Open* **13**, e067850. (https://doi.org/10.1136/bmjopen-2022-067850)  
 Friedman, J., Hastie, T., Tibshirani, R., et al. (2023). glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models. R package version 4.1-8. (https://doi.org/10.32614/CRAN.package.glmnet)  
 Lenth, R. V., Banfai, B., Bolker, B., et al. (2023). emmeans: Estimated Marginal Means, aka Least-Squares Means. R package version 1.9.0. (https://doi.org/10.32614/CRAN.package.emmeans)  
